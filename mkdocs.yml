@@ -35,19 +35,24 @@ copyright: 'Copyright &copy; 2016 - 2018 ElecFreaks'
 theme_dir: material
 
 # Icon
-site_favicon: 'docs/images/favicon.ico'
-# site_favicon: https://raw.github.com/elecfreaks/learn-en/docs/images/favicon.ico
+#site_favicon: 'docs/images/favicon.ico'
+site_favicon: https://raw.githubusercontent.com/elecfreaks/learn-en/master/docs/images/favicon.ico
 
 # Configuration
 theme:
   name: 'material'
-  language: 'en'
+  feature:
+    tabs: false
   palette:
-    primary: 'light green'
+    primary: light green
     accent: 'indigo'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
+  logo: 'images/favicon.ico'
+  search:
+    language: 'en'
+    tokenizer: '[\s\-\.]+'
 
 # Customization
 extra:
@@ -83,7 +88,23 @@ pages:
           - Pm25: pm25.md
 # Extensions
 markdown_extensions:
-  - admonition
-  - codehilite:
-      guess_lang: false
-  - toc:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite(guess_lang=false)
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+  - pymdownx.keys
