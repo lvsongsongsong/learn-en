@@ -64,28 +64,6 @@ extra:
     #- type: 'linkedin'
     #  link: 'https://linkedin.com/in/squidfunk'
 
-# Google Analytics
-#google_analytics:
-#  - 'UA-XXXXXXXX-X'
-#  - 'auto'
-
-
-# Page tree
-pages:
-  - ElecFreaks Learn: 'index.md'
-  - Micro:bit:
-      - Micro:bit Modules:
-          - Octopusbit: octopusbit.md
-          - Pm25: pm25.md
-      - Micro:bitKits:
-          - Octopusbit: octopusbit.md
-          - Pm25: pm25.md 
-      - Micro:bitAccessories:
-          - Octopusbit: octopusbit.md
-          - Pm25: pm25.md
-      - Sensors:
-          - Octopusbit: octopusbit.md
-          - Pm25: pm25.md
 # Extensions
 markdown_extensions:
   - markdown.extensions.admonition
@@ -108,3 +86,25 @@ markdown_extensions:
   - pymdownx.tasklist(custom_checkbox=true)
   - pymdownx.tilde
   - pymdownx.keys
+
+# Page tree
+pages:
+  - ElecFreaks Learn: 'index.md'
+  - Micro:bit:
+      - Micro:bit Modules:
+          - Octopusbit: octopusbit.md
+          - Pm25: pm25.md
+      - Micro:bitKits:
+          - Octopusbit: octopusbit.md
+          - Pm25: pm25.md 
+      - Micro:bitAccessories:
+          - Octopusbit: octopusbit.md
+          - Pm25: pm25.md
+      - Sensors:
+          - Octopusbit: octopusbit.md
+          - Pm25: pm25.md
+
+# Google Analytics
+#google_analytics:
+#  - 'UA-XXXXXXXX-X'
+#  - 'auto'
