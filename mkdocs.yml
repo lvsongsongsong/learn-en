@@ -44,7 +44,8 @@ theme:
   feature:
     tabs: false
   palette:
-    primary: light green    accent: 'indigo'
+    primary: light green
+    accent: 'indigo'    
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
@@ -109,11 +110,6 @@ pages:
           - 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
           - Micro:case: Micro_case.md
           - Acrylic Case with Two AA Battery Holder: Acrylic_Case_with_Two_AA_Battery_Holder.md
-      - Sensors:
-          - Octopusbit: octopusbit.md
-          - Pm25: pm25.md
-          - BME280: BME280.md
-
 # Google Analytics
 #google_analytics:
 #  - 'UA-XXXXXXXX-X'
