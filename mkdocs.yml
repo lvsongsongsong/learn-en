@@ -93,7 +93,7 @@ pages:
   - ElecFreaks Learn: 'index.md'
   - Micro:bit:
       - Micro:bit Modules:
-          - BBC Micro:bit Board: micro_bit_Board.md
+          - BBC Micro:bit Board: Micro_bit_Board.md
           - Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
           - Octopus:bit: octopus_bit.md
           - Motor:bit: Motor_bit.md
