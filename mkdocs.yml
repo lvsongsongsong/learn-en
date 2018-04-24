@@ -64,6 +64,7 @@ extra:
     #- type: 'linkedin'
     #  link: 'https://linkedin.com/in/squidfunk'
 
+
 # Extensions
 markdown_extensions:
   - markdown.extensions.admonition
@@ -92,9 +93,14 @@ pages:
   - ElecFreaks Learn: 'index.md'
   - Micro:bit:
       - Micro:bit Modules:
-          - Octopusbit: octopusbit.md
-          - Pm25: pm25.md
-      - Micro:bitKits:
+          - BBC Micro:bit Board: microbit.md
+          - Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
+          - Octopus:bit: octopus_bit.md
+          - Motor:bit: Motor_bit.md
+          - Power:bit: Power_bit.md
+          - Ring:bit: Ring_bit.md
+          - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A
+      - Micro:bit Kits:
           - Octopusbit: octopusbit.md
           - Pm25: pm25.md 
       - Micro:bitAccessories:
