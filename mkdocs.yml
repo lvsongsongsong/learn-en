@@ -44,8 +44,7 @@ theme:
   feature:
     tabs: false
   palette:
-    primary: light green
-    accent: 'indigo'
+    primary: light green    accent: 'indigo'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
@@ -95,7 +94,7 @@ pages:
       - Micro:bit Modules:
           - BBC Micro:bit Board: Micro_bit_Board.md
           - Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
-          - Octopus:bit: octopus_bit.md
+          - Octopus:bit: Octopus_bit.md
           - Motor:bit: Motor_bit.md
           - Power:bit: Power_bit.md
           - Ring:bit: Ring_bit.md
