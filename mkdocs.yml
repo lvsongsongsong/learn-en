@@ -103,6 +103,7 @@ pages:
       - Sensors:
           - Octopusbit: octopusbit.md
           - Pm25: pm25.md
+          - BME280: BME280.md
 
 # Google Analytics
 #google_analytics:
