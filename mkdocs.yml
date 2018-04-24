@@ -101,11 +101,15 @@ pages:
           - Ring:bit: Ring_bit.md
           - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A
       - Micro:bit Kits:
-          - Octopusbit: octopusbit.md
-          - Pm25: pm25.md 
+          - Micro:bit Starter Kit: Micro_bit_Starter_Kit.md
+          - Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
+          - Micro:bit Board with Battery Holder kit: Micro_bit_Board_with_Battery_Holder_kit.md
+          - Ring:bit Car: Ring_bit_Car.md
       - Micro:bitAccessories:
-          - Octopusbit: octopusbit.md
-          - Pm25: pm25.md
+          - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
+          - 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
+          - Micro:case: Micro_case.md
+          - Acrylic Case with Two AA Battery Holder: Acrylic_Case_with_Two_AA_Battery_Holder.md
       - Sensors:
           - Octopusbit: octopusbit.md
           - Pm25: pm25.md
