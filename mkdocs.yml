@@ -99,6 +99,7 @@ pages:
           - Motor:bit: Motor_bit.md
           - Power:bit: Power_bit.md
           - Ring:bit: Ring_bit.md
+          - Joystick:bit: Joystick_bit.md 
           - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
       - Micro:bit Kits:
           - Micro:bit Starter Kit: Micro_bit_Starter_Kit.md
