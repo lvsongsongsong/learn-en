@@ -91,26 +91,39 @@ markdown_extensions:
 # Page tree
 pages:
   - ElecFreaks Learn: 'index.md'
-  - Micro:bit:
-      - Micro:bit Modules:
-          - BBC Micro:bit Board: Micro_bit_Board.md
-          - Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
-          - Octopus:bit: Octopus_bit.md
-          - Motor:bit: Motor_bit.md
-          - Power:bit: Power_bit.md
-          - Ring:bit: Ring_bit.md
-          - Joystick:bit: Joystick_bit.md 
-          - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
-      - Micro:bit Kits:
-          - Micro:bit Starter Kit: Micro_bit_Starter_Kit.md
-          - Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
-          - Micro:bit Board with Battery Holder kit: Micro_bit_Board_with_Battery_Holder_kit.md
-          - Ring:bit Car Kit: Ring_bit_Car_Kit.md
-      - Micro:bitAccessories:
-          - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
-          - 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
-          - Micro:case: Micro_case.md
-          - Acrylic Case with Two AA Battery Holder: Acrylic_Case_with_Two_AA_Battery_Holder.md
+	- Micro:bit Modules:
+		- BBC Micro:bit Board: Micro_bit_Board.md
+		- Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
+		- Octopus:bit: Octopus_bit.md
+		- Motor:bit: Motor_bit.md
+		- Power:bit: Power_bit.md
+		- Ring:bit: Ring_bit.md
+		- Joystick:bit: Joystick_bit.md 
+		- Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
+	- Micro:bit Kits:
+		- Micro:bit Starter Kit: Micro_bit_Starter_Kit.md
+			- LED: Micro_bit_Starter_Kit_Course_LED.md
+			- Button: Micro_bit_Starter_Kit_Course_Button.md
+			- Trimpot: Micro_bit_Starter_Kit_Course_Trimpot.md
+			- Photocell: Micro_bit_Starter_Kit_Course_Photocell.md
+			- RGB LED: Micro_bit_Starter_Kit_Course_RGB_LED.md
+			- Self-lock Switch: Micro_bit_Starter_Kit_Course_RGB_Self_lock_Switch.md
+			- Temperature Sensor: Micro_bit_Starter_Kit_Course_Temperature_Sensor.md
+			- Servo: Micro_bit_Starter_Kit_Course_Servo.md
+			- Buzzer: Micro_bit_Starter_Kit_Course_Buzzer.md
+			- Motor: Micro_bit_Starter_Kit_Course_Motor.md
+			- Rainbow LED: Micro_bit_Starter_Kit_Course_Rainbow_LED.md
+			- Accelerometer: Micro_bit_Starter_Kit_Course_Accelerometer.md
+			- Compass: Micro_bit_Starter_Kit_Course_Compass.md
+			- Ambient Light: Micro_bit_Starter_Kit_Course_Ambient_Light.md
+		- Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
+		- Micro:bit Board with Battery Holder kit: Micro_bit_Board_with_Battery_Holder_kit.md
+		- Ring:bit Car Kit: Ring_bit_Car_Kit.md
+	- Micro:bit Accessories:
+		- 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
+		- 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
+		- Micro:case: Micro_case.md
+		- Acrylic Case with Two AA Battery Holder: Acrylic_Case_with_Two_AA_Battery_Holder.md
 # Google Analytics
 #google_analytics:
 #  - 'UA-XXXXXXXX-X'
