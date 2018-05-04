@@ -57,6 +57,7 @@ If you look carefully at the LED you will notice two things. One is that the leg
 Resistance is a component for current control. It can limit the current of the circuit connected. And in our experiment, we use 100Ω resistance. If there is no current limit, it will cause LED damage.
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/5-3.jpg)
+
 Want to know resistance value by color circles? You can read this article: [How to Identify Color Circle Resistance Value](https://www.elecfreaks.com/9158.html).
 
 
