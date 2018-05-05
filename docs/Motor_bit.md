@@ -1,3 +1,6 @@
+## Introduction
+ELECFREKAS Motor:bit is a kind of motor drive board based on micro:bit. It has integrated a motor drive chip TB6612, which can drive two DC motors with 1.2A max single channel current. Motor:bit has integrated Octopus series’ sensor connectors. You can plug various sensors into it directly. Among these connectors, P0, P3-P7, P9-P10 support sensors with 3.3V power voltage only; P13-P16, P19-P20 support 3.3V or 5V sensors. You can change electric level by sliding the switch on the board.
+
 ##Introduction
 
 [ELECFREKAS Motor:bit](http://www.elecfreaks.com/estore/elecfreaks-motor-bit-for-micro-bit.html) is a kind of motor drive board based on micro:bit. It has integrated a motor drive chip TB6612, which can drive two DC motors with 1.2A max single channel current. Motor:bit has integrated Octopus series' sensor connectors. You can plug various sensors into it directly. Among these connectors, P0, P3-P7, P9-P10 support sensors with 3.3V power voltage only; P13-P16, P19-P20 support 3.3V or 5V sensors. You can change electric level by sliding the switch on the board.
@@ -5,9 +8,9 @@
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/1-1.jpg)
 
 
-##Hardware 
+## Hardware 
 
-###Features:
+### Features:
 
 Motor Drive Chip: TB6612
 Support GVS-Octopus electric Bricks' connector
@@ -17,13 +20,13 @@ Input Voltage: DC 6-12V
 Dimension: 60.00mm X 60.10mm
 Weight: 30 g
 
-###Application:
+### Application:
 
 It is compatible with [ElecFreaks Octopus electric bricks module series](http://www.elecfreaks.com/estore/octopus-bricks-sensor) due to its built-in 3 pin IO electric brick GVS extension connector.
 It can be used as the development board of mini smart cars and balance cars.
 Users can develop mobile-controlled robot, robot arms, etc..
 
-###Connector Information:
+### Connector Information:
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/2.jpg)
 
@@ -59,18 +62,18 @@ M1，M2 Motor Control Instruction: P8 and P12 relatively controls the rotating d
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/0001.png)
 
-##Dimension:
+## Dimension:
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/7.jpg)
 
-##Example
+## Example
 
 ###Hardware Connection
 Please connect components according to the picture below:
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/8.jpg)
 
-###Programming
+### Programming
 Positive Rotation of Motor:
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/9.jpg)
@@ -86,7 +89,7 @@ P8 in low voltage level means the negative rotation of motor. ou can adjust the 
 If you need more cases about micro:bit, please keep watching our blogs posted on [https://www.elecfreaks.com/blog](https://www.elecfreaks.com/blog).
 
 
-##Relative Cases:
+## Relative Cases:
 
 [Make A Cool Micro:bit Hovercraft Together](https://www.elecfreaks.com/11518.html)
 
