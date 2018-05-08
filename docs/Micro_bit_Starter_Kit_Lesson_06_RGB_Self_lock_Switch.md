@@ -1,4 +1,4 @@
-##Micro_bit_Starter_Kit_Lesson_6_RGB_Self_lock_Switch
+![6](https://i.imgur.com/ogadD6b.jpg)  
 
 ## Introduction
 Self-lock switch is a kind of common button switch. When we press its button for the first time, the switch is connected and remains that status, which is called “self-lock”. When we press the button for the second time, the switch is disconnected. At the same time, the button will bounce back to its initial place. In this experiment, we are going to use self-lock switch to control LED light.
