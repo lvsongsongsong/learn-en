@@ -1,25 +1,29 @@
 ![12](https://i.imgur.com/5RJ1KJn.jpg)   
+
 ## Introduction   
+---   
 Micro:bit has integrated multiple sensors including accelerometer. Today, we are going to use accelerometer to make an level device and display the inclination on NeoPixel ring in bar chart format.    
 
 
 ## Component List  
+---
 ### Hardware:  
-1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
-1 x Micro-B USB Cable  
-1 x [micro:bit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
-1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
-1 x 8 RGB LED NeoPixel Ring  
-1 x [Breadborad Jumper Wire 65pcs Pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
+- 1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+- 1 x Micro-B USB Cable  
+- 1 x [micro:bit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
+- 1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
+- 1 x 8 RGB LED NeoPixel Ring  
+- 1 x [Breadborad Jumper Wire 65pcs Pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
 
 
-**Tips: If you want all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html) . **  
+**Tips: If you want all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html).**  
  
 
 ### Software:  
 Microsoft Makecode Online Editor  
 
-## Major Component Introduction  
+## Major Component Introduction 
+---
 **Accelerometer**  
 There is an accelerometer on your micro:bit which detects the speed change of micro:bit. It converts analog information into digital form that can be used in micro:bit programs. Output is in milli-g. The device will also detect a small number of standard actions, e.g. shake, tilt and free-fall.  
  
@@ -31,6 +35,7 @@ The corresponding X, Y, Z axle direction of accelerometer are showed below:
 
 
 ## Hardware Connection  
+---
 Please complete hardware connection according to the picture below.  
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/3-6.png)   
 
@@ -46,6 +51,7 @@ Of course, you can download the whole program from the link below.
 
 
 ## Code Explain  
+---
 **show bar graph**  
 Display the value with bar chart format just similar to plot bar graph.  
 
@@ -54,14 +60,17 @@ Get the acceleration value (milli g-force) in one of three dimensions, or the co
 
 
 ## Experiment Result  
+---
 With the inclination of micro:bit, LED bead on Neopixel ring gradually illuminated one by one. The bigger inclination angle, more LED beads will be illuminated.  
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/1-8.gif)  
 
 
 ## Think  
+---
 In this case, we have judged the inclination of one direction(X axle) only. If we want to test the inclination of a flat surface( say XY flat surface), then how to design circuit and program. We look forward to your comments and further discussions with us.   
 
-## Relative Readings    
+## Relative Readings   
+---
 [Start Your Micro:bit Programming Trip](https://www.elecfreaks.com/9299.html)    
 [ELECFREAKS Micro:bit Starter Kit Experiment 01:LED](https://www.elecfreaks.com/9784.html)    
 [ELECFREAKS Micro:bit Starter Kit Experiment 02:Button](https://www.elecfreaks.com/9825.html)     
