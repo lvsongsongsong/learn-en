@@ -104,20 +104,20 @@ pages:
   - Micro:bit Kits:
      - Micro:bit Starter Kit:
           - Micro:bit Starter Kit: Micro_bit_Starter_Kit.md
-          - Lesson_01:LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
-          - Lesson_02:Button: Micro_bit_Starter_Kit_Lesson_02_Button.md
-          - Lesson_03:Trimpot: Micro_bit_Starter_Kit_Lesson_03_Trimpot.md
-          - Lesson_04:Photocell: Micro_bit_Starter_Kit_Lesson_04_Photocell.md
-          - Lesson_05:RGB LED: Micro_bit_Starter_Kit_Lesson_05_RGB_LED.md
-          - Lesson_06:Self-lock Switch: Micro_bit_Starter_Kit_Lesson_06_Self_lock_Switch.md
-          - Lesson_07:Temperature Sensor: Micro_bit_Starter_Kit_Lesson_07_Temperature_Sensor.md
-          - Lesson_08:Servo: Micro_bit_Starter_Kit_Lesson_08_Servo.md
-          - Lesson_09:Buzzer: Micro_bit_Starter_Kit_Lesson_09_Buzzer.md
-          - Lesson_10:Motor: Micro_bit_Starter_Kit_Lesson_10_Motor.md
-          - Lesson_11:Rainbow LED: Micro_bit_Starter_Kit_Lesson_11_Rainbow_LED.md
-          - Lesson_12:Accelerometer: Micro_bit_Starter_Kit_Lesson_12_Accelerometer.md
-          - Lesson_13:Compass: Micro_bit_Starter_Kit_Lesson_13_Compass.md
-          - Lesson_14:Ambient Light: Micro_bit_Starter_Kit_Lesson_14_Ambient_Light.md
+          - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
+          - Lesson_02 Button: Micro_bit_Starter_Kit_Lesson_02_Button.md
+          - Lesson_03 Trimpot: Micro_bit_Starter_Kit_Lesson_03_Trimpot.md
+          - Lesson_04 Photocell: Micro_bit_Starter_Kit_Lesson_04_Photocell.md
+          - Lesson_05 RGB LED: Micro_bit_Starter_Kit_Lesson_05_RGB_LED.md
+          - Lesson_06 Self-lock Switch: Micro_bit_Starter_Kit_Lesson_06_Self_lock_Switch.md
+          - Lesson_07 Temperature Sensor: Micro_bit_Starter_Kit_Lesson_07_Temperature_Sensor.md
+          - Lesson_08 Servo: Micro_bit_Starter_Kit_Lesson_08_Servo.md
+          - Lesson_09 Buzzer: Micro_bit_Starter_Kit_Lesson_09_Buzzer.md
+          - Lesson_10 Motor: Micro_bit_Starter_Kit_Lesson_10_Motor.md
+          - Lesson_11 Rainbow LED: Micro_bit_Starter_Kit_Lesson_11_Rainbow_LED.md
+          - Lesson_12 Accelerometer: Micro_bit_Starter_Kit_Lesson_12_Accelerometer.md
+          - Lesson_13 Compass: Micro_bit_Starter_Kit_Lesson_13_Compass.md
+          - Lesson_14 Ambient Light: Micro_bit_Starter_Kit_Lesson_14_Ambient_Light.md
      - Micro:bit Tinker Kit: 
           - Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
           - Music Machine: Micro_bit_Tinker_Kit_Course_Music_Machine.md
@@ -129,10 +129,10 @@ pages:
           - Micro:bit Board with Battery Holder kit: Micro_bit_Board_with_Battery_Holder_kit.md
      - Ring:bit Car Kit: 
           - Ring:bit Car Kit: Ring_bit_Car_Kit.md
-          - Case_01:Add Package: Ring_bit_Car_Kit_Case_01_Add_Package.md
-          - Case_02:S Walk: Ring_bit_Car_Kit_Case_02_S_Walk.md
-          - Case_03:Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circel.md
-          - Case_04:Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
+          - Case_01 Add Package: Ring_bit_Car_Kit_Case_01_Add_Package.md
+          - Case_02 S Walk: Ring_bit_Car_Kit_Case_02_S_Walk.md
+          - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circel.md
+          - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
 
   - Micro:bitAccessories:
     - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
