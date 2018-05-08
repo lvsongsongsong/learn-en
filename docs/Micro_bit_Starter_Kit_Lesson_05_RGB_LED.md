@@ -1,18 +1,20 @@
 ![5](https://i.imgur.com/mEAx3Tx.jpg)  
 
 ## Introduction  
+---
 RGB LED is a kind of LED. It can emit light with three different colors: red, green, and blue. In this experiment, we are trying to make RGB LED gradually shift its light among the three different colors.    
 
-##Component List  
+## Component List  
+---
 
 ### Hardware:  
-1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
-1 x Micro-B USB Cable  
-1 x [microbit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
-1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
-1 x RGB LED  
-3 x 100 Ohm Resistors  
-1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
+- 1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+- 1 x Micro-B USB Cable  
+- 1 x [microbit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
+- 1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
+- 1 x RGB LED  
+- 3 x 100 Ohm Resistors  
+- 1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
 
 **Tips: If you want to buy all components above, you may need [Elecfreaks Micro:bit Starter Kit] (http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html) .**  
  
@@ -21,8 +23,8 @@ Microsoft Makecode Online Editor
 
 
 ## Major Component Introduction
-
-#### RGB LED
+---
+### RGB LED
 RGB LED is a kind of LED, which has integrated red LED, green LED, and blue LED into a component. We all knows that the three primary colors of light are red, green, and blue. With different groups of the three color lights, we can create all colors of the world. Similarly, if we use RGB LED to group lights with different brightness, then it can form various colors.  
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/2-7.jpg)
@@ -31,6 +33,7 @@ RGB LED is a kind of LED, which has integrated red LED, green LED, and blue LED 
 RGB LED can be divided into 2 types: common anode and common cathode. In common-cathode RGB LED, its common port usually connects GND, while in common-anode RGB LED, its common port connects VCC. In this experiment, we choose common-cathode RGB LED . 
 
 ## Hardware Connection
+---
 
 Please complete hardware connection according to the picture below.
 
@@ -42,6 +45,7 @@ After connection, you can see:
 
 
 ## Programming
+---
 
 Open Microsoft Makecode, write code in edit area. I would like to suggest you program by yourself first. 
 
@@ -50,6 +54,7 @@ Of course, if you want to see the whole program directly, you can click the link
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_7PJd01g8pc8i" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ## Code Explain
+---
 **Change Value**
 Set the value for local and global variables. change r by 1 equals “r=r+1”.
 
@@ -77,7 +82,8 @@ For example, “RtoG” function is for realizing transformation of red light an
 Circulate the three functions to realize color gradual change smoothly.
 
 
-##Experiment Result
+## Experiment Result
+---
 Press button A, LED turns red. 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/1-6.jpg)
 Press button B, LED turns green. 
@@ -86,9 +92,11 @@ Press button A+B, LED turns blue.
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/3-6.jpg)
 
 ## Think
+---  
 If we want to use RGB LED to emit cyan light, magenta light, yellow light, then how to design circuit and program? We look forward to your comments or further discussions with us. 
 
 ## Relative Readings  
+--- 
 [Start Your Micro:bit Programming Trip](https://www.elecfreaks.com/9299.html)  
 [ELECFREAKS Micro:bit Starter Kit Experiment 01:LED](https://www.elecfreaks.com/9784.html)  
 [ELECFREAKS Micro:bit Starter Kit Experiment 02:Button](https://www.elecfreaks.com/9825.html)  
