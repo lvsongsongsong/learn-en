@@ -5,10 +5,10 @@ In this study case, you are going to learn how to make your ring:bit car draw a 
 
 ## Material Needed  
 ---
-1 x [Ring:bit Car Kit](http://www.elecfreaks.com/estore/ring-bit-car-mirco-bit-educational-smart-robot-kit-for-kids.html)  
-1 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
-3 x AA Batteries  
-1 x Pen  
+- 1 x [Ring:bit Car Kit](http://www.elecfreaks.com/estore/ring-bit-car-mirco-bit-educational-smart-robot-kit-for-kids.html)  
+- 1 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+- 3 x AA Batteries  
+- 1 x Pen  
 
 ## Assembly  
 ---
