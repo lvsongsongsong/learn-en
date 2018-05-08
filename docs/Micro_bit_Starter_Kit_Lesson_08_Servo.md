@@ -1,6 +1,6 @@
-##Micro_bit_Starter_Kit_Lesson_8_Servo
+![8](https://i.imgur.com/DuxosEs.jpg)
 
-##Introduction
+## Introduction
 Servo is a kind of driver for position (angle) servo. It is suitable to control system with constant angle change and can remain its status. In this experiment, we are going to use Micro:bit to make a servo rotate circularly within a travel range. 
 
 
