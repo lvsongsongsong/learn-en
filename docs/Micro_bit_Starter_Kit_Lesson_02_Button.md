@@ -88,7 +88,7 @@ If starts a condition judgement sentence. When the expression behind if is true 
 Digital read to read the voltage of pin. When read out high voltage, it shows 1. When read out low voltage, it presents 0.
 
 
-##Experiment Result:
+## Experiment Result:
 
 When you press down the button, you can see 2 LED beads twinkle by turns; release the button, they stop flashing.
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/1-1.gif)
