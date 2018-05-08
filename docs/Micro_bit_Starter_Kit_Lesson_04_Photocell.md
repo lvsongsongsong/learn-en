@@ -1,4 +1,4 @@
-##Micro_bit_Starter_Kit_Lesson_4_Photocell
+![4](https://i.imgur.com/MwngMAi.jpg)
 
 ## Introduction
 
