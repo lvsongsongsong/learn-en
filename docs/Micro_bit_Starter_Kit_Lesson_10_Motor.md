@@ -1,4 +1,4 @@
-## Micro_bit_Starter_Kit_Lesson_10_Motor
+![10](https://i.imgur.com/8KZyoCy.jpg)
 
 ## Introduction  
 Motor is a kind of device which can transfer electric energy into kinetic energy according to the law in electromagnetic induction. In this experiment, we are going to use a switch to control the start and stop of a motor.   
