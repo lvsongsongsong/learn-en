@@ -1,8 +1,11 @@
 ![13](https://i.imgur.com/xMxllOG.jpg)  
+
 ## Introduction  
+--- 
 Do you know compass? I believe most of you have played it ever. Today I am going to use micro:bit to create a compass and display its direction on NeoPixels ring. Want to know how I do it? Just read the article below and follow my steps. Let’s go!  
 
 ## Component List  
+---
 ### Hardware:  
 1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
 1 x Micro-B USB Cable  
@@ -13,15 +16,17 @@ Do you know compass? I believe most of you have played it ever. Today I am going
 
 **Tips: If you want all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html) . **  
 
-## Software:  
+### Software:  
 Microsoft Makecode Online Editor  
 
-## Major Component Introduction  
+## Major Component Introduction 
+---
 **Compass**  
 Here, compass in reality is a magnetometer. The magnetometer is a separate chip that provides magnetic field strength sensing. A software algorithm in the standard runtime uses the on board accelerometer to turn these readings into a board orientation independent compass reading. The compass must be calibrated before use, and the calibration process is automatically initiated by the runtime software. This device is connected to the application processor via the I2C bus.  
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/2-16.jpg)     
 
 ## Hardware Connection  
+---
 Please complete hardware connection according to the picture below.  
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/3-6.png)   
 
@@ -30,12 +35,14 @@ After connection, you will see:
 We have to pay attention we must fix the Rainbow LED Ring according to the direction showed in the picture so that it can point right direction.   
 
 
-##Programming  
+## Programming  
+---
 Please open Microsoft Makecode, write your code in the edit area. I would like to suggest you program by yourself first.  
 Of course, you can download the whole code from the link below.   
 [https://makecode.microbit.org/_PKJ3sLasJbK6](https://makecode.microbit.org/_PKJ3sLasJbK6)  
 
 ## Code Explain  
+---
 **Compass Heading**  
 Find which direction on a compass the micro:bit is facing.   
 The micro:bit measures the compass heading from 0 to 360 degrees with its magnetometer chip. Different numbers mean north, east, south, and west. 0 degree mean the true north.   
@@ -56,6 +63,7 @@ The key point of this program is to judge the output value of Compass Heading ap
 
 
 ## Experiment Result  
+---
 Rotate the whole device, you can see the Rainbow LED Ring always point at the same direction.   
 Note: Every time you start to use the compass (for example, if you have just turned the micro:bit on), the micro:bit will start to calibrate compass (adjust itself). It will ask you to draw a circle by tilting the micro:bit.  
 If you are calibrating or using the compass near metal, it might confuse the micro:bit.  
@@ -64,9 +72,11 @@ If you are calibrating or using the compass near metal, it might confuse the mic
 
 
 ## Think  
+---
 If this experiment do not use Rainbow LED Ring but use the arrow displayed on micro:bit as indicator, then how to design circuit and program? We look forward to your comment and further discussion with us.  
 
 ## Relative Readings  
+---
 [Start Your Micro:bit Programming Trip](https://www.elecfreaks.com/9299.html)  
 [ELECFREAKS Micro:bit Starter Kit Experiment 01:LED](https://www.elecfreaks.com/9784.html)  
 [ELECFREAKS Micro:bit Starter Kit Experiment 02:Button](https://www.elecfreaks.com/9825.html)  
