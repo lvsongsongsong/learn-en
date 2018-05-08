@@ -78,7 +78,7 @@ In the software aspect, this experiment do not have new knowledge points. The th
 
 ## Experiment Result
 Press down the button, the motor starts rotate. Press again, it will stop move. 
-Attention: The voltage of micro:bit power source is low. It is 3V only. Press down the button, the motor may not start. If this happened, please stir the fan blade of the motor so that it can move properly. 
+Attention: The voltage of micro:bit power source is low. It is 3V only. Press down the button, the motor may not start. If this happened, please stir the fan blade of the motor so that it can move properly.  
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/1-6.gif)
 
 
