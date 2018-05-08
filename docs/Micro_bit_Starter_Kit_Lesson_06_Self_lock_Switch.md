@@ -1,26 +1,30 @@
 ![6](https://i.imgur.com/ogadD6b.jpg)  
 
 ## Introduction
+---
 Self-lock switch is a kind of common button switch. When we press its button for the first time, the switch is connected and remains that status, which is called “self-lock”. When we press the button for the second time, the switch is disconnected. At the same time, the button will bounce back to its initial place. In this experiment, we are going to use self-lock switch to control LED light.
 
 ## Component List
+---
 ### Hardware：
-1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
-1 x Micro-B USB Cable  
-1 x [microbit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
-1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
-1 x Self-lock Switch  
-1 x LED  
-1 x 100 Ohm Resistors  
-1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
+- 1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+- 1 x Micro-B USB Cable  
+- 1 x [microbit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
+- 1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
+- 1 x Self-lock Switch  
+- 1 x LED  
+- 1 x 100 Ohm Resistors  
+- 1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
 
-**Tips: If you want all components above, you may need [Elecfreaks micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html) .**
+**Tips: If you want all components above, you may need [Elecfreaks micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html).**
  
 ### Software:
+---
 Microsoft MakeCode Online Editor
 
 
 ## Major Components Introduction
+---
 ### Self-lock Switch
 Self-lock switch normally means switch with built-in mechanical lock function. Press down the switch and then release, it will not fully bounce up because it is locked. You have to press it again, then it will be unlocked and fully bounce up. This is the so-called Self-lock Switch. It is widely used to earlier televisions and monitors with function of directly completely power off.
 
@@ -30,6 +34,7 @@ Note: This kind of self-lock switch contains two groups of double-throw switch. 
 
 
 ## Hardware Connection:
+---
 
 Please complete hardware connection according to the picture below.
  ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/6-3.png)
@@ -39,6 +44,7 @@ After connection, you will see:
 
 
 ## Programming 
+---
 Please open Microsoft Makecode, write your code in the edit area. I would like to suggest you to program by yourself first.
 
 Of course, you can see the whole program directly in the link below. Just click Edit on the top right corner of the interface to start edit your program. Once you completed edit, click "Download" in the bottom right corner of the interface to download your code directly into Micro:bit..
@@ -47,6 +53,7 @@ Of course, you can see the whole program directly in the link below. Just click 
 
 
 ## Code Explain
+---
 **set events** 
 Configure the type of events emitted by a given pin.
 
@@ -59,14 +66,17 @@ In this case, w designed 2 events: P0 voltage rise and fall. Every time we press
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/6-6.jpg) 
 
 ## Experiment Result
+---
 Press down self-lock switch, LED turned on; press again, LED turned off. 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/未标题1.gif)
 
 
 ## Think
+---
 Usually stair light use double-throw switch to realize this function. We can  turn on the light of upstairs and turn off the light of downstairs. Vice versa. Suppose if we want to use 2 self-lock switch to realize stair light function, then how to design circuit and program? We look forward to your comments or further discussion with us.
 
 ## Relative Readings
+---
 [Start Your Micro:bit Programming Trip](https://www.elecfreaks.com/9299.html)  
 [ELECFREAKS Micro:bit Starter Kit Experiment 01:LED](https://www.elecfreaks.com/9784.html)  
 [ELECFREAKS Micro:bit Starter Kit Experiment 02:Button](https://www.elecfreaks.com/9825.html)  
