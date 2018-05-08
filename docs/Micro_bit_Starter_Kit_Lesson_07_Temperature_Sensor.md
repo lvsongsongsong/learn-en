@@ -73,7 +73,7 @@ Then according to the formula above to calculate temperature value.
 
 
 ## Experiment Result
-micro:bit screen displays the present temperature value. 
+micro:bit screen displays the present temperature value.  
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/1-4.gif)
 
 
