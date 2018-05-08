@@ -1,30 +1,34 @@
 ![10](https://i.imgur.com/8KZyoCy.jpg)
 
-## Introduction  
+## Introduction 
+---
 Motor is a kind of device which can transfer electric energy into kinetic energy according to the law in electromagnetic induction. In this experiment, we are going to use a switch to control the start and stop of a motor.   
 
 
 ## Component List  
+---
 ### Hardware:  
-1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
-1 x Micro-B USB Cable  
-1 x [micro:bit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
-1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
-1 x 5V Miniature Motors  
-1 x TIP 120 NPN Transistor  
-1 x 1N4007 Diodes  
-1 x 100 Ohm Resistors  
-1 x [Breadborad Jumper Wire 65pcs Pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
-2 x Alligator Clip Wires  
+- 1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+- 1 x Micro-B USB Cable  
+- 1 x [micro:bit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)  
+- 1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)  
+- 1 x 5V Miniature Motors  
+- 1 x TIP 120 NPN Transistor  
+- 1 x 1N4007 Diodes  
+- 1 x 100 Ohm Resistors  
+- 1 x [Breadborad Jumper Wire 65pcs Pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
+- 2 x Alligator Clip Wires  
 
 **Tips: If you want all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html) . **  
  
 
 ### Software:  
+---
 Microsoft Makecode Online Editor   
 
 
 ## Major Component Introduction  
+---
 ### Motor  
 Motor is a kind of device that can transfer electric energy into kinetic energy according to the law of electromagnetic induction. Motor has a lot of categories. In our experiment, the motor we use is DC motor. When we supply DC voltage to the two terminals of motor, it will rotate. The higher the voltage, the faster it rotates. 
  ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/2-13.jpg)  
@@ -42,6 +46,7 @@ In this experiment, we use alligator clip wire to connect our motor.
 
 
 ## Hardware Connection  
+---
 
 Please complete hardware connection according to the picture below.
 
@@ -59,6 +64,7 @@ After connection, you will see:
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/8-6.jpg)  
 
 ## Programming
+---
 Please open Microsoft Makecode, write your code in the edit area. I would like to suggest you program by yourself first. 
 
 Of course, you can download the whole program from the link below.
@@ -66,6 +72,7 @@ Of course, you can download the whole program from the link below.
 
 
 ## Code Explain
+---
 In the software aspect, this experiment do not have new knowledge points. The thing we have to pay special attention to is P1 port connect button. Under brick “on start”, we have to set P1 to be up mode, or it can not recognize button signal properly. 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/9-4.jpg) 
 
@@ -76,10 +83,12 @@ Attention: The voltage of micro:bit power source is low. It is 3V only. Press do
 
 
 ## Think
+---
 If we want to use potentiometer to control the motor speed, then how to design circuit and program. We look forward to your comments and further discussions with us. 
 
 
 ## Relative Readings  
+---
 [Start Your Micro:bit Programming Trip](https://www.elecfreaks.com/9299.html)  
 [ELECFREAKS Micro:bit Starter Kit Experiment 01:LED](https://www.elecfreaks.com/9784.html)  
 [ELECFREAKS Micro:bit Starter Kit Experiment 02:Button](https://www.elecfreaks.com/9825.html)  
