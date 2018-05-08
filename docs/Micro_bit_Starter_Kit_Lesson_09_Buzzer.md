@@ -79,19 +79,6 @@ Every circulation makes “f” change “item”, “f” changes among 20Hz to
 
  ![](https://www.elecfreaks.com/wp-content/uploads/2018/05/12.jpg)
 
-
-
-## Experiment Result
----
-The sound sent out by buzzer changes between high frequency and low frequency. And we can see the bar chart of frequency on Micro:bit screen.
-
-![](https://www.elecfreaks.com/wp-content/uploads/2018/05/1.gif)
-
-## Think
----
-If we want to make a high temperature alarming device with temperature sensor and buzzer, then how can we design circuit and program? We look forward to your feedback and further discussion. 
-
-
 ## Experiment Result  
 ---
 The sound sent out by buzzer changes between high frequency and low frequency. And we can see the bar chart of frequency on Micro:bit screen.  
