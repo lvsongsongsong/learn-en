@@ -7,33 +7,34 @@ Trimpot （or potentiometer) is a kind of common pressure adjustment components.
 
 ## Components:
 
-####Hardware:
+### Hardware:
 
-1 x [Micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
-1 x Micro-B USB Cable
-1 x [Microbit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)
-1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)
-1 x 10K Trimpot
-1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)
+- 1 x [Micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
+- 1 x Micro-B USB Cable
+- 1 x [Microbit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)
+- 1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)
+- 1 x 10K Trimpot
+- 1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)
 
 **If you want to buy all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html).**
  
  
-#### Software:
+### Software:
 
 Microsoft Makecode Online Editor
 
 
-##Major Components Introduction
+## Major Components Introduction
 
-#### Trimpot
+### Trimpot
 
 Trimpot is a kind of adjustable electronic components. It consists a resistance and a rotary or sliding system. When add an outer voltage on the two fixed contact spots of resistance, by changing the place of contact spots on resistance with rotary or sliding system, a voltage with certain relationship with the place of movable contact spot is formed between movable contact spot and two fixed contact spots. Most of the time, it works as a voltage divider.
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/2-5.jpg)
 
 
-##Hardware Connection
+## Hardware Connection
+---
 
 Connect your components according to the picture below:
 
@@ -47,6 +48,7 @@ Rotate trimpot button, then output voltage will change from 0V to 3.3V as with t
 
 
 ## Programming
+---
 
 Click to openMicrosoft Makecode, write your code in the edit area. We would like to suggest you to write code by yourself first.
 
@@ -56,17 +58,19 @@ Of course, you can see the whole program in the link below. Just click the Edit 
 
 
 ## Code Explain:
+---
 
-plot bar graph
+*plot bar graph*
 
 Displays a bar graph of the numbers you say. A bar graph is a kind of chart that shows numbers as lines with different lengths.
 
-analog read
+*analog read*
 
 Read an analog signal (0 through 1023) from the pin you say.
 
 
 ## Experiment Result
+---
 
 Rotate trimpot button, voltage value will be displayed on Micro:bit 5*5 LED screen with bar graph. When voltage read out to be “0”, LED screen display a pixel spot only. While the voltage becomes 3.3V, LED screen will be fully illuminated.
 
@@ -75,11 +79,13 @@ Rotate trimpot button, voltage value will be displayed on Micro:bit 5*5 LED scre
 
 
 ## Think
+---
 
 If we want to use trimpot to adjust the brightness of a LED, then how to design circuit and program? Your further discussions or comments are welcomed!
 
 
 ## Relative Readings:
+---
 
 [Start Your Micro:bit Programming Trip](https://www.elecfreaks.com/9299.html)
 
