@@ -1,39 +1,39 @@
 ![4](https://i.imgur.com/MwngMAi.jpg)
 
 ## Introduction
-
+---
 Photocell is a kind of special resistance based on internal photoelectric effect. Its resistant value is opposite to the brightness of light. Brighter light leads to lower resistant value. Usually photocell is the core component of a photoswitch. In the following experiment, we are going to use photocell to control the brightness of 5*5 LED screen on micro:bit.
 
 
 ## Component List
-
+---
 
 ### Hardware:
 
-1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
+- 1 x [micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
+- 1 x Micro-B USB Cable
 
-1 x Micro-B USB Cable
+- 1 x [micro:bit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)
 
-1 x [micro:bit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)
+- 1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)
 
-1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)
+- 1 x Photocell
 
-1 x Photocell
+- 1 x 10k Ohm Resistors
 
-1 x 10k Ohm Resistors
-
-1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)
+- 1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)
 
 **Tips: If you want to buy all components above, then you will need [Elecfreaks micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html).**
  
  
-###Software:
+### Software:
 
 Microsoft Makecode Online Editor
 
 
 
 ## Introduction of Major Components
+---
 
 ### Photocell
 
@@ -43,6 +43,7 @@ Photocell is a kind of special resistance made of semi-conductor materials like 
 
 
 ## Hardware Connection
+---
 
 Please complete hardware connection according to the picture below.
 ![]( https://www.elecfreaks.com/wp-content/uploads/2018/03/3-3.png)
@@ -55,6 +56,7 @@ After connection, you can see:
 
 
 ## Programming
+---
 
 Open Microsoft Makecode, write code in editor window. I would like to suggest you to try programming by yourself first.
 
@@ -65,25 +67,26 @@ Of course, you can see the whole program in the link below. Just click “Edit�
 
 
 ## Code Explain
+---
 
-**set**
+*set*
 
 This is assignment operation. set a to 1 equals to “a=1”. We use an equals sign to make a variable store the number or string you say.
 When you use the equals sign to store something in a variable, the equals sign is called an assignment operator, and what you store is called a value.
 
-**analog read**
+*analog read*
 
 Read an analog signal (0 through 1023) from the pin you say.
 
-**show icon**
+*show icon*
 
 Shows the selected icon on the LED screen
 
-**Clear Screen**
+*Clear Screen*
 
 Turn off all the LED lights on the LED screen.
 
-**If else**
+*If else*
 
 In Lesson 2, we have talked about the usage of “if” sentence. In sentence of “ if else”, when the format value is false(or 0), then it will implement “else” brick program before running program in sequence. Here is the flow chart: 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/5-4.jpg)
@@ -101,8 +104,9 @@ In program, calibrationVal-2 is for adjusting sensitivity. Lower value, higher s
 
 
 ## Experiment Result
+---
 
-Turn on light, 5*5 LED screen on micro:bit become empty. Turn off light, LED screen displays a sign of heart.
+Turn on light, 5x5 LED screen on micro:bit become empty. Turn off light, LED screen displays a sign of heart.
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/1-2.gif)
 
@@ -112,11 +116,13 @@ After resetting micro:bit, it will calibrate the reference value according to th
 
 
 ## Think
+---
 
 If we want to use photocell to control a LED bead, then how to design circuit and program? We look forward to your further discussions or comments.
 
 
 ## Relative Readings
+---
 
 [Start Your Micro:bit Programming Trip](https://www.elecfreaks.com/9299.html)
 
