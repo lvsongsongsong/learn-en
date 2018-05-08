@@ -1,4 +1,4 @@
-Micro_bit_Starter_Kit_Lesson_9_Buzzer
+![9](https://i.imgur.com/nCSnCEt.jpg)  
 
 ## Introduction  
 Buzzer is a kind of electronic sound receiver with integrated structure. It is widely used as a voice device in electronic products like computers, printers, copying machines, alarm apparatus, electronic toys, auto electronic devices, telephones, etc..In this experiment, we are going to use Micro:bit to drive buzzer and make its sound circulate between high frequency and low frequency just like alarm song. And we will present its sound frequency on Micro:bit screen with bar chart format. 
