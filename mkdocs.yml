@@ -129,6 +129,10 @@ pages:
           - Micro:bit Board with Battery Holder kit: Micro_bit_Board_with_Battery_Holder_kit.md
      - Ring:bit Car Kit: 
           - Ring:bit Car Kit: Ring_bit_Car_Kit.md
+          - Case_01: Add Package: Ring_bit_Car_Kit_Case_01_Add_Package.md
+          - Case_02: S Walk: Ring_bit_Car_Kit_Case_02_S_Walk.md
+          - Case_03: Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circel.md
+          - Case_04: Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
 
   - Micro:bitAccessories:
     - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
