@@ -1,12 +1,14 @@
 
-## Micro_bit_Starter_Kit_Lesson_1_LED
+## Micro_bit_Starter_Kit_Lesson_01_LED
 
 ## Introduction:
+---
 
 LED has wide applications. Most signal lights we saw in our daily life use LED as its major light source. In today’s experiment, we are going to use Micro:bit to make 2 LED beads twinkle alternatively.
 
 
 ## Components List:
+---
 
 ### Hardware:
 
@@ -31,7 +33,9 @@ LED has wide applications. Most signal lights we saw in our daily life use LED a
 
 Microsoft Makecode Online Editor
 
+
 ## Major Components Introduction
+---
 
 ### Micro:bit Breadboard Adapter
 
@@ -71,6 +75,7 @@ After connection, you will see:
 
 
 ## Programming
+---
 
 Click to open [Microsoft Makecode](https://makecode.microbit.org/), write the following code in the edit area.
 
@@ -101,5 +106,6 @@ You can see 2 LEDs flashing alternatively. If it is not, go back and check your 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/1.gif)
 
 ## Think
+---
 
 If we want to control 4 LED beads and make it illuminate by turns, then how shall we design our circuit and make program. We would like to receive your further discussion with us. You can leave your comment below.
