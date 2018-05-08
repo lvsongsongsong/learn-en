@@ -14,7 +14,7 @@ In our blog “Micro:bit Experiment 04: Photocell — Elecfreaks Mirco: bit Star
 - 1 x 8 RGB LED NeoPixel Ring  
 - 1 x [Breadborad Jumper Wire 65pcs Pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
 
-**Tips: If you want all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html) . **  
+**Tips: If you want all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html).**  
 
 ### Software:  
 Microsoft Makecode Online Editor  
