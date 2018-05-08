@@ -104,20 +104,20 @@ pages:
   - Micro:bit Kits:
      - Micro:bit Starter Kit:
           - Micro:bit Starter Kit: Micro_bit_Starter_Kit.md
-          - LED: Micro_bit_Starter_Kit_Course_LED.md
-          - Button: Micro_bit_Starter_Kit_Course_Button.md
-          - Trimpot: Micro_bit_Starter_Kit_Course_Trimpot.md
-          - Photocell: Micro_bit_Starter_Kit_Course_Photocell.md
-          - RGB LED: Micro_bit_Starter_Kit_Course_RGB_LED.md
-          - Self-lock Switch: Micro_bit_Starter_Kit_Course_RGB_Self_lock_Switch.md
-          - Temperature Sensor: Micro_bit_Starter_Kit_Course_Temperature_Sensor.md
-          - Servo: Micro_bit_Starter_Kit_Course_Servo.md
-          - Buzzer: Micro_bit_Starter_Kit_Course_Buzzer.md
-          - Motor: Micro_bit_Starter_Kit_Course_Motor.md
-          - Rainbow LED: Micro_bit_Starter_Kit_Course_Rainbow_LED.md
-          - Accelerometer: Micro_bit_Starter_Kit_Course_Accelerometer.md
-          - Compass: Micro_bit_Starter_Kit_Course_Compass.md
-          - Ambient Light: Micro_bit_Starter_Kit_Course_Ambient_Light.md
+          - Course_01: LED: Micro_bit_Starter_Kit_Course_01_LED.md
+          - Course_02: Button: Micro_bit_Starter_Kit_Course_02_Button.md
+          - Course_03: Trimpot: Micro_bit_Starter_Kit_Course_03_Trimpot.md
+          - Course_04: Photocell: Micro_bit_Starter_Kit_Course_04_Photocell.md
+          - Course_05: RGB LED: Micro_bit_Starter_Kit_Course_05_RGB_LED.md
+          - Course_06: Self-lock Switch: Micro_bit_Starter_Kit_Course_06_Self_lock_Switch.md
+          - Course_07: Temperature Sensor: Micro_bit_Starter_Kit_Course_07_Temperature_Sensor.md
+          - Course_08: Servo: Micro_bit_Starter_Kit_Course_08_Servo.md
+          - Course_09: Buzzer: Micro_bit_Starter_Kit_Course_09_Buzzer.md
+          - Course_10: Motor: Micro_bit_Starter_Kit_Course_10_Motor.md
+          - Course_11: Rainbow LED: Micro_bit_Starter_Kit_Course_11_Rainbow_LED.md
+          - Course_12: Accelerometer: Micro_bit_Starter_Kit_Course_12_Accelerometer.md
+          - Course_13: Compass: Micro_bit_Starter_Kit_Course_13_Compass.md
+          - Course_14: Ambient Light: Micro_bit_Starter_Kit_Course_14_Ambient_Light.md
      - Micro:bit Tinker Kit: 
           - Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
           - Music Machine: Micro_bit_Tinker_Kit_Course_Music_Machine.md
