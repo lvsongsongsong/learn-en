@@ -37,6 +37,7 @@ Please complete hardware connection according to the picture below.
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/3-6.png)   
 
 After connection, you will see:  
+
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/4-12.jpg )  
 
 
@@ -62,7 +63,7 @@ Use LED as a light sensor is not sensitive. It requires comparatively brighter l
 ## Experiment Result  
 ---
 
-When in darkness, the LED ring will be turned on; while in brightness, the LED ring will be turned off.  
+When in darkness, the LED ring will be turned on; while in brightness, the LED ring will be turned off.   
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/未标题1-3.gif)  
 
