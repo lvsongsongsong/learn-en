@@ -1,41 +1,35 @@
 ![2](https://i.imgur.com/SVbSfPB.jpg)
 
 ## Introduction:
+---
 
 In lesson 1 , we have learned how to use Micro:bit to control 2 LED beads and make them twinkle alternatively. This time we are going to use a button to control LED flash. That means when we press down the button, 2 LED beads flash in turns; release the button, LED beads stop flashing.
 
 
 ## Components:
+---
+### Hardware:
 
-#### Hardware:
-
-1 x [Micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
-
-1 x Micro-B USB Cable
-
-1 x [Microbit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)
-
-1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)
-
-2 x LED
-
-2 x 100 Ohm Resistors
-
-1 x Momentary Pushbutton Switch
-
-1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)
-
+- 1 x [Micro:bit Board](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
+- 1 x Micro-B USB Cable  
+- 1 x [Microbit Breadboard Adapter](http://www.elecfreaks.com/estore/microbit-breadboard-adapter.html)
+- 1 x [Transparent Breadboard - 83 * 55 mm](http://www.elecfreaks.com/estore/transparent-breadboard-83-55-mm.html)
+- 2 x LED
+- 2 x 100 Ohm Resistors  
+- 1 x Momentary Pushbutton Switch
+- 1 x [Breadborad jumper wire 65pcs pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)
 
 
 **Tips: If you want to buy all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html).**
  
  
-#### Software:
+### Software:
 Microsoft Makecode Online Editor
 
 
 
 ## Major Components Introduction
+---
 
 #### Momentary Pushbutton Switch
 
@@ -50,6 +44,7 @@ Momentary Pushbutton Switch has 4 footers which can be divided into 2 groups: fo
 
 
 ## Hardware Connection
+---
 
 Connect your components according to the picture below:
 
@@ -61,7 +56,7 @@ After connection, you will see:
 
 
 ## Programming
-
+---
 
 Click to open[Microsoft Makecode](https://makecode.microbit.org/), write your code in the edit area. We would like to suggest you to write code by yourself first.
 
@@ -70,8 +65,8 @@ Of course, you can see the whole program in the link below. Just click the Edit 
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_6sjLfwXVhaxg" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 
-##Code Explain:
-
+## Code Explain:
+---
 **on start**
 
 An event that runs when the program starts.
@@ -99,8 +94,8 @@ When you press down the button, you can see 2 LED beads twinkle by turns; releas
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/1-1.gif)
 
 
-##Think
-
+## Think
+---
 If we want to light red LED when press down the button and light green LED when release the button, then how to program? We would like to see your comments or further discussions with us. 
 
 ###Relative Readings:
