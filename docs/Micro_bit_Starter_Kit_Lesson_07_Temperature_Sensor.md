@@ -1,4 +1,4 @@
-Micro_bit_Starter_Kit_Lesson_7_Temperature_Sensor
+![7](https://i.imgur.com/fMCJitN.jpg)
 
 ## Introduction
 Temperature sensor is a kind of sensor that can feel temperature and transfer it into output data. Temperature sensor is the core component of temperature gauges and instruments. It has multiple categories. In this experiment, we are going to learn analog temperature sensor--TMP36 and display its data on the screen of Micro:bit.
