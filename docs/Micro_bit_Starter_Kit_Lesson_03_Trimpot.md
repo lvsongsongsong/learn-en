@@ -1,4 +1,4 @@
-##Micro_bit_Starter_Kit_Lesson_3_Trimpot
+![3](https://i.imgur.com/eN8vvty.jpg)
 
 ## Introduction
 
