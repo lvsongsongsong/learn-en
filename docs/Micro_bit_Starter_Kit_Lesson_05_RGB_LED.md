@@ -1,4 +1,5 @@
-## Micro_bit_Starter_Kit_Lesson_5_RGB_LED  
+![5](https://i.imgur.com/mEAx3Tx.jpg)  
+
 ## Introduction  
 RGB LED is a kind of LED. It can emit light with three different colors: red, green, and blue. In this experiment, we are trying to make RGB LED gradually shift its light among the three different colors.    
 
