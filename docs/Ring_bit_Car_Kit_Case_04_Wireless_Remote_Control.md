@@ -5,8 +5,8 @@ In this study case, you are going to learn how to make a wireless remote control
 
 ## Material Needed  
 ---
-1 x [Ring:bit Car Kit ](http://www.elecfreaks.com/estore/ring-bit-car-mirco-bit-educational-smart-robot-kit-for-kids.html)  
-2 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
+- 1 x [Ring:bit Car Kit](http://www.elecfreaks.com/estore/ring-bit-car-mirco-bit-educational-smart-robot-kit-for-kids.html)  
+- 2 x [micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
 
 ## Assembly  
 ---
