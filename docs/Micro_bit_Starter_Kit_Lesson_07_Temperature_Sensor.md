@@ -12,7 +12,7 @@ Temperature sensor is a kind of sensor that can feel temperature and transfer it
 1 x TMP36 Temperature Sensor  
 1 x [Breadborad Jumper Wire 65pcs Pack](http://www.elecfreaks.com/estore/breadborad-jumper-wire-65pcs-pack.html)  
 
-**Tips: If you want all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html). **
+**Tips: If you want all components above, you may need [Elecfreaks Micro:bit Starter Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-starter-kit-795.html).**
  
 ### Software:
 Microsoft Makecode Online Editor
