@@ -83,7 +83,7 @@ https://makecode.microbit.org/_aPtRppeup0E5
 
 **Forever**
 
-The forever block is a block that loops any other command blocks inserted into it over and over again…forever. It starts from the top and executes your code in order working its way to the bottom and then starts at the top again.
+The `forever` block is a block that loops any other command blocks inserted into it over and over again…forever. It starts from the top and executes your code in order working its way to the bottom and then starts at the top again.
 
 **Digital Write**
 
