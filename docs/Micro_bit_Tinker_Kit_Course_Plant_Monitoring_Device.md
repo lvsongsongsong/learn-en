@@ -12,13 +12,13 @@ A message will always be displaying on the OLED, showing the moisture level.
 
 ## Material Needed:    
 ---
-1 x [BBC Micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)  
-1 x Micro USB Cable  
-1 x [Breakout Board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)  
-1 x [Mini Buzzer](https://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html)  
-1 x [OLED](https://www.elecfreaks.com/estore/iic-oled.html)  
-1 x [Moisture Sensor](https://www.elecfreaks.com/estore/octopus-soil-moisture-sensor-brick.html)  
-2 x Female-Female Jumper Wires  
+- 1 x [BBC Micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)  
+- 1 x Micro USB Cable  
+- 1 x [Breakout Board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)  
+- 1 x [Mini Buzzer](https://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html)  
+- 1 x [OLED](https://www.elecfreaks.com/estore/iic-oled.html)  
+- 1 x [Moisture Sensor](https://www.elecfreaks.com/estore/octopus-soil-moisture-sensor-brick.html)  
+- 2 x Female-Female Jumper Wires  
 
 Note: You can plug components in any sequence.  
 
