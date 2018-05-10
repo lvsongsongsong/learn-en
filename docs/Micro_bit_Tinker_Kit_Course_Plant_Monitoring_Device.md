@@ -4,8 +4,8 @@ A message will always be displaying on the OLED, showing the moisture level.
 
 ## Goals:       
 ---
-- 1. Get to know the buzzer, OLED and moisture sensor.   
-- 2. Make something with a moisture sensor.   
+1. Get to know the buzzer, OLED and moisture sensor.   
+2. Make something with a moisture sensor.   
 
 
 ## Material Needed:    
