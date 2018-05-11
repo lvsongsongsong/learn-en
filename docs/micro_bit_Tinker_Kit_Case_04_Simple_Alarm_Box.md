@@ -1,4 +1,4 @@
-Micro_bit_Tinker_Kit_Course_Simple_Alarm_Box.md
+micro_bit_Tinker_Kit_Case_04_Simple_Alarm_Box.md
 
 ## Step 0: Pre-build Overview  
 ---
