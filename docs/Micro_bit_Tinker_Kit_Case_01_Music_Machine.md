@@ -1,4 +1,3 @@
-Micro_bit_Tinker_Kit_Course_Music_Machine.md
 
 
 ![](https://i.imgur.com/cqLH6Bs.jpg)  
