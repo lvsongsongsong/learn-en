@@ -1,4 +1,4 @@
-Micro_bit_Tinker_Kit_Course_Music_Machine.md
+micro_bit_Tinker_Kit_Case_01_Music_Machine.md
 
 
 ![](https://i.imgur.com/cqLH6Bs.jpg)  
