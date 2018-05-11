@@ -103,4 +103,5 @@ You can see 2 LEDs flashing alternatively. If it is not, go back and check your 
 
 If we want to control 4 LED beads and make it illuminate by turns, then how shall we design our circuit and make program. We would like to receive your further discussion with us. You can leave your comment below.
 
+## Relative Readings
 [Micro_bit_Starter_Kit_Lesson_01_LED](/Micro_bit_Starter_Kit_Lesson_01_LED/)
