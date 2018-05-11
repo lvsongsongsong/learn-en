@@ -1,4 +1,4 @@
-micro_bit_Tinker_Kit_Case_02_Smart_Light.md
+
 
 ![](https://i.imgur.com/hEALUQr.jpg)  
 
