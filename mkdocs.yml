@@ -122,11 +122,27 @@ pages:
           - Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
           - Music Machine: Micro_bit_Tinker_Kit_Case_01_Music_Machine.md
           - Smart Light: Micro_bit_Tinker_Kit_Case_02_Smart_Light.md
-          - Electro-Theremin: Micro_bit_Tinker_Kit_Course_Electro_Theremin.md
-          - Simple Alarm Box: Micro_bit_Tinker_Kit_Course_Simple_Alarm_Box.md
-          - Plant Monitoring Device: Micro_bit_Tinker_Kit_Course_Plant_Monitoring_Device.md
-          - Intruder Detection: Make_an_Intruder_Detection_with Micro:bit
-          
+          - Electro-Theremin: Micro_bit_Tinker_Kit_Case_03_Electro_Theremin.md
+          - Simple Alarm Box: Micro_bit_Tinker_Kit_Case_04_Simple_Alarm_Box.md
+          - Plant Monitoring Device: Micro_bit_Tinker_Kit_Case_05_Plant_Monitoring_Device.md
+          - Intruder Detection: Micro_bit_Tinker_Kit_Case_06_Intruder_Detection.md
+          - Fish Feeder: Micro_bit_Tinker_Kit_Case_07_Fish_Feeder.md
+          - Motion Detector: Micro_bit_Tinker_Kit_Case_08_Motion_Detector.md
+          - Lie Detector: Micro_bit_Tinker_Kit_Case_09_Lie_Detector.md
+          - PADDLEBALLSUPERSMASHEM: Micro_bit_Tinker_Kit_Case_10_PADDLEBALLSUPERSMASHEM.md
+          - Avoid Asteroids: Micro_bit_Tinker_Kit_Case_11_Avoid_Asteroids.md
+          - Remote Control Everything: Micro_bit_Tinker_Kit_Case_12_Remote_Control_Everything.md
+          - micro:bit Car: Micro_bit_Tinker_Kit_Case_13_micro:bit_Car.md
+          - Flipping Pancakes: Micro_bit_Tinker_Kit_Case_14_Flipping_Pancakes.md
+          - Maze Runner: Micro_bit_Tinker_Kit_Case_15_Maze_Runner.md
+          - QUICK MATHS: Micro_bit_Tinker_Kit_Case_16_QUICK_MATHS.md
+          - Pitch Perfect: Micro_bit_Tinker_Kit_Case_17_Pitch_Perfect.md
+          - Finger Dexterity: Micro_bit_Tinker_Kit_Case_18_Finger_Dexterity.md
+          - Electric Spirit Level: Micro_bit_Tinker_Kit_Case_19_Electric_Spirit_Level.md
+          - Space Shooter: Micro_bit_Tinker_Kit_Case_20_Space_Shooter.md
+          - Flappy Bird: Micro_bit_Tinker_Kit_Case_21_Flappy_Bird.md
+          - Wire Transmission: Micro_bit_Tinker_Kit_Case_22_Wire_Transmission.md
+          - Snake Game: Micro_bit_Tinker_Kit_Case_23_Snake_Game.md
           
           
      - Micro:bit Board with Battery Holder kit: 
@@ -137,7 +153,7 @@ pages:
           - Case_02 S Walk: Ring_bit_Car_Kit_Case_02_S_Walk.md
           - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circel.md
           - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
-
+          
   - Micro:bitAccessories:
     - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
     - 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
