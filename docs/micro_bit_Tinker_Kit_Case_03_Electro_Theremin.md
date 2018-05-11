@@ -1,4 +1,4 @@
-Micro_bit_Tinker_Kit_Course_Electro_Theremin.md
+micro_bit_Tinker_Kit_Case_03_Electro_Theremin.md
 
 ![](https://i.imgur.com/TJvoaaV.jpg)  
 
