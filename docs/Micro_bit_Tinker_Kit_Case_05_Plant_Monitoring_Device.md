@@ -1,4 +1,3 @@
-micro_bit_Tinker_Kit_Case_05_Plant_Monitoring_Device.md
 
 In this project, we are going to create a plant monitoring which the buzzer will sound when there is not enough water.  
 A message will always be displaying on the OLED, showing the moisture level.  
