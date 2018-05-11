@@ -74,9 +74,11 @@ Click to open [Microsoft Makecode](https://makecode.microbit.org/), write the fo
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/03/8-2.jpg)
  
-You can download the whole program from the link below. 
+You can download the whole program from the link below:[https://makecode.microbit.org/_aPtRppeup0E5](https://makecode.microbit.org/_aPtRppeup0E5)
 
-https://makecode.microbit.org/_aPtRppeup0E5
+Or, you can download it directly by the website below.
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_RWyJ0uDsiP0D" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
 ### Code Explain:
