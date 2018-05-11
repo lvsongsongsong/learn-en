@@ -120,11 +120,15 @@ pages:
           - Lesson_14 Ambient Light: Micro_bit_Starter_Kit_Lesson_14_Ambient_Light.md
      - Micro:bit Tinker Kit: 
           - Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
-          - Music Machine: Micro_bit_Tinker_Kit_Course_Music_Machine.md
-          - Smart Light: Micro_bit_Tinker_Kit_Course_Smart_Light.md
+          - Music Machine: Micro_bit_Tinker_Kit_Case_01_Music_Machine.md
+          - Smart Light: Micro_bit_Tinker_Kit_Case_02_Smart_Light.md
           - Electro-Theremin: Micro_bit_Tinker_Kit_Course_Electro_Theremin.md
           - Simple Alarm Box: Micro_bit_Tinker_Kit_Course_Simple_Alarm_Box.md
           - Plant Monitoring Device: Micro_bit_Tinker_Kit_Course_Plant_Monitoring_Device.md
+          - Intruder Detection: Make_an_Intruder_Detection_with Micro:bit
+          
+          
+          
      - Micro:bit Board with Battery Holder kit: 
           - Micro:bit Board with Battery Holder kit: Micro_bit_Board_with_Battery_Holder_kit.md
      - Ring:bit Car Kit: 
