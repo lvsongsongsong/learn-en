@@ -1,5 +1,3 @@
-Micro_bit_Tinker_Kit_Case_11_Avoid_Asteroids.md
-
 Make your own little arcade game on the Micro:bit, and admire its 5 by 5 pixelate glory!
 This tutorial was contributed by Josh Ho from Raffles Institution.
 
@@ -101,3 +99,4 @@ Or you can download from the page below.
 
 ### Step 4 – Success!
 Voilà! You have created your own mini video game console with your Micro:bit. Now go out there and show your friends who’s the real boss!
+
