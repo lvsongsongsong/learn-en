@@ -1,55 +1,53 @@
-micro_bit_Tinker_Kit_Case_14_Flipping_Pancakes.md
+Do you have what it takes to flip the perfect pancake?
 
-Do you have what it takes to flip the perfect pancake?  
-
-## Goals  
+## Goals
 ---
 
-We’re going to create a flippy pancake game where you must flip the pancake at the perfect time. Too fast, your pancake will be mushy; too slow, it will be burnt! You’ll learn how to…     
+We’re going to create a flippy pancake game where you must flip the pancake at the perfect time. Too fast, your pancake will be mushy; too slow, it will be burnt! You’ll learn how to…   
 
-- Use a Buzzer and ADKeypad with the micro:bit.    
-- Use if-else statements to evaluate conditions.    
-- Create your own function on MakeCode.    
+- Use a Buzzer and ADKeypad with the micro:bit.  
+- Use if-else statements to evaluate conditions.  
+- Create your own function on MakeCode.  
 - Customise your game!  
 
-## Materials  
+## Materials
 ---
 
-- 1 x BBC micro:bit    
-- 1 x Micro USB cable    
-- 1 x Buzzer    
-- 2 x F-F Jumper Wires    
-- 1 x ADKeypad    
+- 1 x BBC micro:bit  
+- 1 x Micro USB cable  
+- 1 x Buzzer  
+- 2 x F-F Jumper Wires  
+- 1 x ADKeypad  
 
+![](https://i.imgur.com/QXLEvIN.gif)
 
-## How to Make  
+## How to Make
 ---  
 
-### Step 1    
+### Step 1  
 
-Plug in your Buzzer to Pin0. Make sure the positive lead is connected to the yellow signal pin and the negative lead is connected to the black ground pin on the breakout board.    
+Plug in your Buzzer to Pin0. Make sure the positive lead is connected to the yellow signal pin and the negative lead is connected to the black ground pin on the breakout board.  
 
-Plug in the ADKeypad to Pin1. Match the colours of the wires to the ones on the breakout board!  
+Plug in the ADKeypad to Pin1. Match the colours of the wires to the ones on the breakout board!
 
-![](https://i.imgur.com/B8xs2c5.jpg)  
-
-
-### Step 2  
-
-In Makecode, we’ll track the length of time using two variables. Variables are like buckets that can hold changing values.  
-
-Every time we turn on micro:bit, a hidden timer keeps track of how long it has been on. We’re going to use this hidden timer to calculate the start time, end time, and total length of the game.  
-
-Create a new variable called startTime (or anything you like, really) in the Variable drawer.  
-
-When we start the game, we want to set our variable startTime to the running time of the micro:bit.  
-
-We also want to display a flat pancake on the screen with the LEDs.  
-
-![](https://i.imgur.com/I405Wwf.png)  
+![](https://i.imgur.com/B8xs2c5.jpg)
 
 
-### Step 3  
+### Step 2
+
+In Makecode, we’ll track the length of time using two variables. Variables are like buckets that can hold changing values.
+
+Every time we turn on micro:bit, a hidden timer keeps track of how long it has been on. We’re going to use this hidden timer to calculate the start time, end time, and total length of the game.
+
+Create a new variable called startTime (or anything you like, really) in the Variable drawer.
+
+When we start the game, we want to set our variable startTime to the running time of the micro:bit.
+
+We also want to display a flat pancake on the screen with the LEDs.
+
+![](https://i.imgur.com/I405Wwf.png)
+
+### Step 3
 
 We want to set up the game so that when you press the A button on the ADKeypad, a pancake-flipping animation will be played on the micro:bit.
 
@@ -65,10 +63,10 @@ Once you have your function defined, you can run it anytime by using the new ‘
 
 Feel free to customise your own pancake-flipping animation. This is just one example!
 
-![](https://i.imgur.com/G19eBMP.png)  
+![](https://i.imgur.com/G19eBMP.png)
 
 
-### Step 4  
+### Step 4
 
 Now we’re going to sense button press on the ADKeypad. To do so, we need to import a special package into MakeCode.
 
@@ -80,10 +78,10 @@ Now you’ll see something new in MakeCode – a bright green Tinkercademy categ
 
 Inside this category, you’ll find blocks to sense button press on the ADKeypad. This package importation only happens in current project. So if you start a new project, you’ll need to re-import it.
 
-![](https://i.imgur.com/Y9DZFDh.png)  
+![](https://i.imgur.com/Y9DZFDh.png)
 
 
-### Step 5  
+### Step 5
 
 Now that we can sense button press, let’s create the main code for the game! We need to calculate the time whenever a player presses button A and figure out if the pancake is mushy, perfectly cooked, or burnt.
 
@@ -133,18 +131,19 @@ Finally, let’s add some starting music and a starting message when we first st
 
 We can use the buzzer once again to play a melody (once again we want it to play ‘once in background’). We can also display the name of the game as well!
 
-![](https://i.imgur.com/58yN3Cz.png)  
+![](https://i.imgur.com/58yN3Cz.png)
 
 
 If you don't want to type these code by yourself, you can download directly from the link below.
 
 [https://makecode.microbit.org/_aepYrcgwLFEy](https://makecode.microbit.org/_aepYrcgwLFEy)
 
-Or you can download from the page below.  
+Or you can download from the page below.
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_aepYrcgwLFEy" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
-### Cool Stuff!  
+### Cool Stuff!
 
 Now you’ve learned how to use the ADKeypad, you can use it to control LEDs, servos, and other components! You have also learned about if-else statements and creating your own functions, which can be useful in many micro:bit projects! Try customising your pancake game as well!
+
