@@ -1,5 +1,3 @@
-micro_bit_Tinker_Kit_Case_14_Flipping_Pancakes.md
-
 Do you have what it takes to flip the perfect pancake?
 
 ## Goals
