@@ -1,5 +1,3 @@
-micro_bit_Tinker_Kit_Case_10_PADDLEBALLSUPERSMASHEM.md
-
 ## Step 0 – Pre Build Overview  
 ---
 In this project, we will create a simple game, in which you bounce a ball against a wall. If you miss, you die. Too bad. For those of you who appreciate a challenge, the game increases in difficulty with each level!  
