@@ -1,5 +1,3 @@
-micro_bit_Tinker_Kit_Case_23_Snake_Game.md
-
 ![](https://i.imgur.com/jzfY1Q6.jpg)
 
 Anyone remembers the Snake game that used to come with old Nokia phones? This micro:bit version in glorious 5×5 resolution is easy to make and fun to play!
