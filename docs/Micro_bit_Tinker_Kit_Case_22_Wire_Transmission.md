@@ -1,5 +1,3 @@
-micro_bit_Tinker_Kit_Case_22_Wire_Transmission.md
-
 ![](https://i.imgur.com/cke0jAl.jpg)
 
 Communicate between two micro:bits using Morse code, fishing line, a servo and a sensor! Why use micro:bit’s radio when this is so much cooler?
