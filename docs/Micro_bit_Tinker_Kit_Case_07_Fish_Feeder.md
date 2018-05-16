@@ -1,8 +1,5 @@
-micro_bit_Tinker_Kit_Case_07_Fish_Feeder.md  
-
-
-Tired of feeding your fish by hand? Here’s the micro:bit project for you!  
-In this course, we will use a ADKeypad to control the motion of a servo to feed fish.  
+> Tired of feeding your fish by hand? Here’s the micro:bit project for you! 
+> In this course, we will use a ADKeypad to control the motion of a servo to feed fish.  
 
 
 ## Step 0 – Pre-build Overview    
